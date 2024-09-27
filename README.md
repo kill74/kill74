@@ -6,8 +6,10 @@ Sou o Guilherme, vivo em Castelo Branco/Portugal, atualmente estou a estudar na 
 
 Skills: Java/HTML/Css/SQL/JavaScript/Figma
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on My Portfolio 
+- 🌱 I’m currently learning Node.Js and Angular  
+- 📫 How to reach me: guilhermesales4563@gmail.com 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kill74)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/guuiiiw/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Gui5432)  
 
