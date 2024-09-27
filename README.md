@@ -11,9 +11,6 @@
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kill74)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Guilherme Sales&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
