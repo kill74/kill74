@@ -1,15 +1,24 @@
-### Hi there 👋, Guilherme Sales 
-#### Estudante de Desenvolvimento Web e Multimedia
-![Estudante de Desenvolvimento Web e Multimedia](https://i.pinimg.com/originals/ed/a5/73/eda5739966cb33768d8ad0d77d7307ce.gif)
-
-Sou o Guilherme, vivo em Castelo Branco/Portugal, atualmente estou a estudar na ESTCB (Escola Superior de Tecnologia de Castelo Branco), estou a tirar o curso de Desenvolvimente Web e Multimedia. Gosto bastante de programar em JavaScript e SQL, mas estou aberto a aprender outras linguagens. Pode contactar me no linkedin ( https://www.linkedin.com/in/guilherme-sales-35a580299/ ).
-
-Skills: Java/HTML/Css/SQL/JavaScript/Figma
-
-- 🔭 I’m currently working on My Portfolio 
-- 🌱 I’m currently learning Node.Js and Angular  
-- 📫 How to reach me: guilhermesales4563@gmail.com 
+# 💫 About Me:
+🔭 I’m currently working on My Portfolio<br>🤝 I’m looking for help with learning new things<br>🌱  I’m currently learning Node.Js,Angular, Python and PHP<br>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kill74)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/guuiiiw/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Gui5432)  
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/556871987667140609) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guuiiiw) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ Gui5432) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Guilherme Sales&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme Sales&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme Sales&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Guilherme Sales&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Guilherme Sales&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
