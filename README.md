@@ -7,3 +7,4 @@ I like to play games, program, and do random stuff on Linux. <br> Im starting to
 Neovim, IntelJS, Android Studio, and Ubuntu (with KDE).
 
 ![linux dancing](./club-penguin-dance.gif)
+ 
