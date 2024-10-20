@@ -8,4 +8,4 @@ Neovim, IntelJS, Android Studio, and Ubuntu (with KDE).
 
 ![linux dancing](GatoRodar.gif) 
  
-# I LOVE LINUXX 
+# I LOVE LINUX
