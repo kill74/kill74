@@ -6,5 +6,6 @@ I like to play games, program, and do random stuff on Linux. <br> Im starting to
 ### Programs i use (and love):
 Neovim, IntelJS, Android Studio, and Ubuntu (with KDE).
 
-![linux dancing](./GatoRodar.gif) 
+![linux dancing](GatoRodar.gif) 
  
+# I LOVE LINUXX 
