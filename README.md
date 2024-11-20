@@ -8,4 +8,4 @@ Vscode (with my config), NeoVim (My Config), Android Studio, and Ubuntu (with Gn
 
 ![linux dancing](dance.gif) 
  
-# I LOVE LINUX
+
