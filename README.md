@@ -3,7 +3,7 @@
 <br>
 
 # 💫 About Me:
-🔭 I’m currently working on my PHP project<br>👯 I’m looking to collaborate on open source <br>🌱 I’m currently learning Linux and Bash
+🔭 I’m currently working on my React and Tailwind project<br>👯 I’m looking to collaborate on open source <br>🌱 I’m currently learning Linux, Bash and Go
 
 
 # 💻 Tech Stack:
