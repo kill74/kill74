@@ -3,7 +3,7 @@
 <br>
 
 # 💫 About Me:
-🔭 I’m currently working on my React and Tailwind project<br>👯 I’m looking to collaborate on open source <br>🌱 I’m currently learning Linux, Bash and Go <br> 🐧 My main operating system: Arch Linux with KDE
+🔭 I’m currently working on PyTorch and GO <br>👯 I’m looking to collaborate on open source <br>🌱 I’m currently learning Linux, Bash and Go <br> 🐧 My main operating system: Arch Linux with KDE
 
 
 # 💻 Tech Stack:
