@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Sales</h1>
+
 - 🔭 I’m currently working on **my Go and Pytorch Project**
 
 - 🌱 I’m currently learning **React, TypeScript, C++**
