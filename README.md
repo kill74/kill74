@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kill74)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## 🌟 Current Projects
