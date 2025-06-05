@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Go, C++, Rust</p>
+<p align="left">📚 I'm currently learning Go, Oracle, C#</p>
 
 ###
 
