@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Go, Oracle, C#</p>
+Concluí o Curso Técnico Superior Profissional em Desenvolvimento Web e Multimédia no Instituto Politécnico de Castelo Branco, com classificação final de 15 valores. Atualmente, frequento a Licenciatura em Design Digital e Multimédia na mesma instituição, onde procuro aprofundar e consolidar os meus conhecimentos. Tenho 20 anos e sou motivado pela tecnologia, pelo design e pela criação de experiências digitais inovadoras.
 
 ###
 
