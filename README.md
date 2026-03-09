@@ -25,7 +25,7 @@ Concluí o Curso Técnico Superior Profissional em Desenvolvimento Web e Multim�
             (_)(_)                                       | |\ |
             |_||_|                                      /  || \
             |_||_|                                     /   ||_|\
-___________/__][__\___________________________________/____|[_]_\__
+
 
 ###
 
