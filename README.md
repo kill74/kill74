@@ -12,6 +12,21 @@
 
 Concluí o Curso Técnico Superior Profissional em Desenvolvimento Web e Multimédia no Instituto Politécnico de Castelo Branco, com classificação final de 15 valores. Atualmente, frequento a Licenciatura em Design Digital e Multimédia na mesma instituição, onde procuro aprofundar e consolidar os meus conhecimentos. Tenho 20 anos e sou motivado pela tecnologia, pelo design e pela criação de experiências digitais inovadoras.
 
+
+              /~\                                ====
+             ( oo|                               o o~~
+             _\=/_                              _\- /_
+            /  _  \                 ___        / \ /  \
+           //|/.\|\\               / ()\      //| |  |\\
+          ||  \_/  ||            _|_____|_    \\| |  |//
+          || |\ /| ||           | | === | |    \\ |  //
+           # \_ _/ #            |_|  O  |_|     )===(|
+             | | |               ||  O  ||      | || |
+             | | |               ||__*__||      (_)(_)
+             []|[]              |~ \___/ ~|     |_||_|
+             | | |              /=\ /=\ /=\     |_||_|
+____________/_]_[_\_____________[_]_[_]_[_]____/__][__\____________
+
 ###
 
 <h2 align="left">I code with</h2>
