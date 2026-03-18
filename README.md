@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="under" height="180" src="https://media.tenor.com/lbZb8oyFWRkAAAAi/lain.gif" />
+<img align="right" height="180" src="https://media.tenor.com/lbZb8oyFWRkAAAAi/lain.gif" />
 
 ### `> whoami`
 
