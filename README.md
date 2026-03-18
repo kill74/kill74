@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:1a1a2e,100:F7CF6E&amp;height=200&amp;section=header&amp;text=Guilherme&amp;fontSize=80&amp;fontColor=F7CF6E&amp;fontAlignY=38&amp;desc=Digital%20Design%20%26%20Multimedia%20Student%20%7C%20Portugal%20🇵🇹&amp;descAlignY=60&amp;descSize=16&amp;animation=fadeIn" />
-
-</div>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=F7CF6E&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Full-Stack+Developer+%F0%9F%92%BB;Digital+Design+%26+Multimedia+Student+%F0%9F%8E%A8;Building+digital+experiences+%E2%9C%A8;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
 </div>
@@ -135,8 +129,6 @@ Status      : Always learning...
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7CF6E,50:1a1a2e,100:0d0d0d&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
 
 <sub>
   <code>// The present is connected to the past and future. — Lain</code>
