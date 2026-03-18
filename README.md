@@ -80,17 +80,11 @@ Status      : Always learning...
 
 ### `> git log --stat`
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Guiiilhermee&amp;theme=tokyonight&amp;column=7&amp;margin-w=10&amp;margin-h=10&amp;no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 <br/>
 
 <div align="center">
 
-[![Guilherme's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guiiilhermee&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=F7CF6E&amp;line=F7CF6E&amp;point=ffffff&amp;area=true&amp;hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Guilherme's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kill74&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=F7CF6E&amp;line=F7CF6E&amp;point=ffffff&amp;area=true&amp;hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
