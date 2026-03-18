@@ -1,18 +1,109 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CF6E&width=435&lines=Bem-Vindo+ao+meu+perfil+%3A)" alt="Typing SVG" />
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:F7CF6E&height=200&section=header&text=Guilherme&fontSize=80&fontColor=F7CF6E&fontAlignY=38&desc=Digital%20Design%20%26%20Multimedia%20Student%20%7C%20Portugal%20🇵🇹&descAlignY=60&descSize=16&animation=fadeIn" />
 
-<p align="left">My name is Guilherme and I'm a student, from Portugal.</p>
+</div>
 
-###
+<div align="center">
 
-<h2 align="left">About me</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7CF6E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;Digital+Design+%26+Multimedia+Student+%F0%9F%8E%A8;Building+digital+experiences+%E2%9C%A8;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
-###
+</div>
 
-Concluí o Curso Técnico Superior Profissional em Desenvolvimento Web e Multimédia no Instituto Politécnico de Castelo Branco, com classificação final de 15 valores. Atualmente, frequento a Licenciatura em Design Digital e Multimédia na mesma instituição, onde procuro aprofundar e consolidar os meus conhecimentos. Tenho 20 anos e sou motivado pela tecnologia, pelo design e pela criação de experiências digitais inovadoras.
+---
 
+<br/>
 
+<img align="right" height="180" src="https://media.tenor.com/lbZb8oyFWRkAAAAi/lain.gif" />
+
+### `> whoami`
+
+```sh
+Name        : Guilherme
+Location    : Castelo Branco, Portugal 🇵🇹
+Education   : Lic. Design Digital e Multimédia
+              Instituto Politécnico de Castelo Branco
+Former      : TeSP Desenvolvimento Web e Multimédia — 15 valores ✅
+Age         : 20
+Interests   : Tech · Design · Digital Experiences
+Status      : Always learning...
+```
+
+<br clear="right"/>
+
+---
+
+<br/>
+
+### `> cat skills.txt`
+
+<div align="center">
+
+**Languages & Runtimes**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Tools & Environments**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
+
+---
+
+<br/>
+
+### `> git log --stat`
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guiiilhermee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=F7CF6E&title_color=F7CF6E&icon_color=F7CF6E" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiiilhermee&layout=compact&theme=tokyonight&border_color=F7CF6E&title_color=F7CF6E" />
+</a>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Guiiilhermee&theme=tokyonight&border=F7CF6E&ring=F7CF6E&fire=F7CF6E&currStreakLabel=F7CF6E)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<br/>
+
+### `> echo "a little lore..."`
+
+```
              ====                  _                      ====
             ~~o o                 /o\     I felt         (o o")
             _\ -/_                \_/     a great        _\- /_
@@ -25,64 +116,30 @@ Concluí o Curso Técnico Superior Profissional em Desenvolvimento Web e Multim�
             (_)(_)                                       | |\ |
             |_||_|                                      /  || \
             |_||_|                                     /   ||_|\
+```
 
+---
 
-###
+<br/>
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="sql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-</div>
-
-###
+### `> ls ./contact`
 
 <div align="center">
-  <img height="100" src="https://media.tenor.com/lbZb8oyFWRkAAAAi/lain.gif"  />
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guiiilhermee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme@example.com)
+
 </div>
 
-###
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CF6E,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
+
+<sub>
+  <code>// The present is connected to the past and future. — Lain</code>
+</sub>
+
+</div>
