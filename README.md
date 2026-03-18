@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:1a1a2e,100:F7CF6E&amp;height=200&amp;section=header&amp;text=Guilherme&amp;fontSize=80&amp;fontColor=F7CF6E&amp;fontAlignY=38&amp;desc=Digital%20Design%20%26%20Multimedia%20Student%20%7C%20Portugal%20🇵🇹&amp;descAlignY=60&amp;descSize=16&amp;animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=F7CF6E&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Full-Stack+Developer+%F0%9F%92%BB;Digital+Design+%26+Multimedia+Student+%F0%9F%8E%A8;Building+digital+experiences+%E2%9C%A8;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
 </div>
@@ -76,18 +82,15 @@ Status      : Always learning...
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guiiilhermee&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;border_color=F7CF6E&amp;title_color=F7CF6E&amp;icon_color=F7CF6E" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiiilhermee&amp;layout=compact&amp;theme=tokyonight&amp;border_color=F7CF6E&amp;title_color=F7CF6E" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Guiiilhermee&amp;theme=tokyonight&amp;column=7&amp;margin-w=10&amp;margin-h=10&amp;no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Guiiilhermee&amp;theme=tokyonight&amp;border=F7CF6E&amp;ring=F7CF6E&amp;fire=F7CF6E&amp;currStreakLabel=F7CF6E)](https://git.io/streak-stats)
+[![Guilherme's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guiiilhermee&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=F7CF6E&amp;line=F7CF6E&amp;point=ffffff&amp;area=true&amp;hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -129,6 +132,8 @@ Status      : Always learning...
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F7CF6E,50:1a1a2e,100:0d0d0d&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
 
 <sub>
   <code>// The present is connected to the past and future. — Lain</code>
