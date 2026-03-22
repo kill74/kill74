@@ -13,10 +13,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/↗_portfolio-guilhermewebsitee.vercel.app-F7CF6E?style=flat-square&labelColor=0d1117)](https://guilhermewebsitee.vercel.app)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/kill74?label=followers&style=flat-square&color=F7CF6E&labelColor=0d1117)](https://github.com/kill74)
-
 </div>
 
 ---
