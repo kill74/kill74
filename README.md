@@ -9,6 +9,8 @@
 ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝   ╚═╝       ╚═╝
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7CF6E&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%7C+Systems+Programmer;Writes+kernels+in+C+%26+ASM+%E2%80%94+ships+apps+in+React+%26+Rust;One+of+the+few+who+understands+both+ends+of+the+stack;Castelo+Branco%2C+Portugal+%F0%9F%87%B5%F0%9F%87%B9+%E2%80%94+building+globally;The+present+is+connected+to+the+past+and+future+%E2%80%94+Lain" alt="Typing SVG" />
+
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/↗_portfolio-guilhermewebsitee.vercel.app-F7CF6E?style=flat-square&labelColor=0d1117)](https://guilhermewebsitee.vercel.app)
