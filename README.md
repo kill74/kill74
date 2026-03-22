@@ -196,8 +196,6 @@ Console tool that syncs SharePoint lists to SQL Server via CSOM, applying data q
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kill74&theme=tokyo-night&background=0d1117&border=30363d&ring=F7CF6E&fire=F7CF6E&currStreakLabel=F7CF6E)](https://git.io/streak-stats)
-
 </div>
 
 ---
