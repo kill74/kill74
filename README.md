@@ -32,7 +32,7 @@
                  Instituto Politécnico de Castelo Branco
   prior       →  TeSP Desenvolvimento Web e Multimédia  [grade: 15 ✓]
 
-  stack       →  C · Assembly · Rust · Go · C# · JS/TS · Python · PHP · Lua
+  stack       →  C · Assembly · Rust · Go · C# · JS/TS · Python · PHP · Lua · SQLite · Oracle · MongoDB
   layers      →  bare-metal kernels  →  systems daemons  →  REST APIs  →  UIs
   philosophy  →  understand the whole stack, own every layer
 
