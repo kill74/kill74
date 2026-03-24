@@ -140,9 +140,7 @@ Console tool that syncs SharePoint lists to SQL Server via CSOM, applying data q
   "currently_exploring": ["eBPF", "WASM runtimes", "distributed consensus", "GitOps (ArgoCD / Flux)"]
 }
 ```
-
 <br/>
-
 ---
 
 ## `> git log --oneline --all --graph`
