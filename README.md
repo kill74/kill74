@@ -54,30 +54,32 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ [TinyOS](https://github.com/kill74/TinyOS)
-**Bare-metal x86 kernel — no stdlib, no libc, no safety net.**
+### 🌉 [TeamPulseBridge](https://github.com/kill74/TeamPulseBridge)
+**Production-grade event ingestion bridge — Slack, Teams, GitHub, GitLab → one hardened pipeline.**
 
-Written from scratch in **C & Assembly**. Handles CPU protection rings (Ring 0/3), configures the GDT/IDT, implements a basic memory manager, and boots on real hardware. No dependencies. No OS beneath it. Just silicon and intent.
+Built in **Go** with HMAC/token webhook verification for 4 providers, OpenTelemetry tracing, structured `slog` logging, Prometheus metrics, and JWT-protected admin routes. Full Terraform IaC for GCP (GKE, Cloud SQL, VPC, Cloud Armor). Six CI workflows covering lint, race detector, vuln scan, smoke tests, and automated releases.
 
-**What this proves:** I understand what happens *before* `main()`.
+**What this proves:** I design for production from the first commit — security, observability, and reliability are not afterthoughts.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/ASM-x86-grey?style=flat-square)
-![Kernel](https://img.shields.io/badge/bare--metal-kernel-F7CF6E?style=flat-square&labelColor=0d1117)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💬 [Chatify](https://github.com/kill74/Chatify)
-**Real-time chat engine built in Rust — engineered for correctness.**
+**Terminal-first, self-hosted chat server — engineered for correctness in Rust.**
 
-Channels, DMs, voice, file transfers, message editing, reactions, and presence tracking. Built with Rust's ownership model as the architecture — no data races by design, not by discipline.
+WebSocket server with SQLite-backed event persistence, multi-channel messaging, DMs, voice, file transfers, reactions, history replay, and time-window search. Optional Discord bridge behind a Cargo feature flag. Ships as cross-platform binaries with automated Windows release packaging and SHA256 checksums via GitHub Actions CI.
 
-**What this proves:** Systems thinking applied to networked, concurrent software.
+**What this proves:** Systems thinking applied to networked, concurrent, production-ready software.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Async](https://img.shields.io/badge/async-tokio-F7CF6E?style=flat-square&labelColor=0d1117)
-![Networking](https://img.shields.io/badge/real--time-networking-grey?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-grey?style=flat-square)
+![CI](https://img.shields.io/badge/CI-passing-F7CF6E?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
@@ -134,8 +136,8 @@ Console tool that syncs SharePoint lists to SQL Server via CSOM, applying data q
     "CPU protection rings", "async runtimes",
     "network protocols", "CSOM / SharePoint APIs"
   ],
-  "toolchain": ["Linux", "Git", "Vim", "GDB", "Bash", "npm", "OpenCV"],
-  "currently_exploring": ["eBPF", "WASM runtimes", "distributed consensus"]
+  "toolchain": ["Linux", "Git", "Vim", "GDB", "Bash", "Docker", "Terraform", "npm", "OpenCV"],
+  "currently_exploring": ["eBPF", "WASM runtimes", "distributed consensus", "GitOps (ArgoCD / Flux)"]
 }
 ```
 
@@ -175,6 +177,8 @@ Console tool that syncs SharePoint lists to SQL Server via CSOM, applying data q
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
