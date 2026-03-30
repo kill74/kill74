@@ -54,7 +54,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌉 [TeamPulseBridge](https://github.com/kill74/TeamPulseBridge)
+### [TeamPulseBridge](https://github.com/kill74/TeamPulseBridge)
 **Production-grade event ingestion bridge — Slack, Teams, GitHub, GitLab → one hardened pipeline.**
 
 Built in **Go** with HMAC/token webhook verification for 4 providers, OpenTelemetry tracing, structured `slog` logging, Prometheus metrics, and JWT-protected admin routes. Full Terraform IaC for GCP (GKE, Cloud SQL, VPC, Cloud Armor). Six CI workflows covering lint, race detector, vuln scan, smoke tests, and automated releases.
@@ -69,7 +69,7 @@ Built in **Go** with HMAC/token webhook verification for 4 providers, OpenTeleme
 </td>
 <td width="50%" valign="top">
 
-### 💬 [Chatify](https://github.com/kill74/Chatify)
+### [Chatify](https://github.com/kill74/Chatify)
 **Terminal-first, self-hosted chat server — engineered for correctness in Rust.**
 
 WebSocket server with SQLite-backed event persistence, multi-channel messaging, DMs, voice, file transfers, reactions, history replay, and time-window search. Optional Discord bridge behind a Cargo feature flag. Ships as cross-platform binaries with automated Windows release packaging and SHA256 checksums via GitHub Actions CI.
@@ -86,7 +86,7 @@ WebSocket server with SQLite-backed event persistence, multi-channel messaging, 
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [PulseData](https://github.com/kill74/PulseData)
+### [PulseData](https://github.com/kill74/PulseData)
 **Full-stack data engineering platform — from raw events to business insight.**
 
 Built on **.NET 8 + PostgreSQL** with a clean ETL pipeline modelling real-world e-commerce analytics. Handles ingestion, transformation, and BI-ready output. Designed around the principle that bad data architecture costs more than bad code.
@@ -100,7 +100,7 @@ Built on **.NET 8 + PostgreSQL** with a clean ETL pipeline modelling real-world 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 [SPO2SQL](https://github.com/kill74/SPO2SQL)
+### [SPO2SQL](https://github.com/kill74/SPO2SQL)
 **Enterprise integration bridge — SharePoint Online → SQL Server.**
 
 Console tool that syncs SharePoint lists to SQL Server via CSOM, applying data quality routines to catch structural inconsistencies before they corrupt downstream reports. The kind of unglamorous, critical infrastructure that keeps businesses running.
