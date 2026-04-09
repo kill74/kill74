@@ -200,8 +200,6 @@ Syncs SharePoint lists to SQL Server via CSOM, applying data quality routines to
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kill74&theme=onedark&column=7&margin-w=8&margin-h=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
