@@ -196,6 +196,7 @@ Syncs SharePoint lists to SQL Server via CSOM, applying data quality routines to
 
 <br/><br/>
 
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kill74&theme=tokyo-night&bg_color=0d1117&color=F7CF6E&line=F7CF6E&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
