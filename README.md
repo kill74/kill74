@@ -9,9 +9,7 @@
 ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝   ╚═╝       ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7CF6E&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%7C+Systems+Programmer;Writes+kernels+in+C+%26+ASM+%E2%80%94+ships+apps+in+React+%26+Rust;One+of+the+few+who+understands+both+ends+of+the+stack;Castelo+Branco%2C+Portugal+%F0%9F%87%B5%F0%9F%87%B9+%E2%80%94+building+globally;The+present+is+connected+to+the+past+and+future+%E2%80%94+Lain" alt="Typing SVG" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F7CF6E&center=true&vCenter=true&width=680&lines=Full-Stack+Engineer+%7C+Systems+Programmer;Writes+kernels+in+C+%26+ASM+%E2%80%94+ships+products+in+Rust+%26+React;One+of+the+few+who+understands+both+ends+of+the+stack;Castelo+Branco%2C+Portugal+%F0%9F%87%B5%F0%9F%87%B9+%E2%80%94+building+globally;The+present+is+connected+to+the+past+and+future+%E2%80%94+Lain" alt="Typing SVG" />
 
 </div>
 
@@ -28,11 +26,12 @@
   location    →  Castelo Branco, Portugal 🇵🇹
   age         →  20
 
-  education   →  Lic. Design Digital e Multimédia
+  education   →  B.Sc. Digital & Multimedia Design
                  Instituto Politécnico de Castelo Branco
-  prior       →  TeSP Desenvolvimento Web e Multimédia  [grade: 15 ✓]
+  prior       →  TeSP — Web & Multimedia Development    [grade: 15 ✓]
 
-  stack       →  C · Assembly · Rust · Go · C# · JS/TS · Python · PHP · Lua · SQLite · Oracle · MongoDB
+  stack       →  C · Assembly · Rust · Go · C# · JS/TS · Python · PHP · Lua
+  data        →  SQLite · PostgreSQL · Oracle · MongoDB · SQL Server
   layers      →  bare-metal kernels  →  systems daemons  →  REST APIs  →  UIs
   philosophy  →  understand the whole stack, own every layer
 
@@ -40,13 +39,13 @@
 ```
 
 > Most developers live at one end of the stack.
-> I build kernels *and* ship products — because you can't truly master one without understanding the other.
+> I write kernels *and* ship products — because you can't truly master one without the other.
 
 ---
 
 ## `> ls -la ./projects --sort=impact`
 
-> Production systems, open-source tools, and systems experiments. All shipped.
+> Production systems, open-source tooling, and systems experiments. All shipped.
 
 <br/>
 
@@ -54,27 +53,28 @@
 <tr>
 <td width="50%" valign="top">
 
-### [TeamPulseBridge](https://github.com/kill74/TeamPulseBridge)
+### 🔁 [TeamPulseBridge](https://github.com/kill74/TeamPulseBridge)
 **Production-grade event ingestion bridge — Slack, Teams, GitHub, GitLab → one hardened pipeline.**
 
-Built in **Go** with HMAC/token webhook verification for 4 providers, OpenTelemetry tracing, structured `slog` logging, Prometheus metrics, and JWT-protected admin routes. Full Terraform IaC for GCP (GKE, Cloud SQL, VPC, Cloud Armor). Six CI workflows covering lint, race detector, vuln scan, smoke tests, and automated releases.
+Built in **Go** with HMAC/token webhook verification across 4 providers. Ships with OpenTelemetry tracing, structured `slog` logging, Prometheus metrics, JWT-protected admin routes, and full Terraform IaC for GCP (GKE, Cloud SQL, VPC, Cloud Armor). Six CI workflows: lint, race detector, vuln scan, smoke tests, and automated releases.
 
-**What this proves:** I design for production from the first commit — security, observability, and reliability are not afterthoughts.
+`→` Designed for production from commit one — security, observability, and reliability are not afterthoughts.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### [Chatify](https://github.com/kill74/Chatify)
+### 💬 [Chatify](https://github.com/kill74/Chatify)
 **Terminal-first, self-hosted chat server — engineered for correctness in Rust.**
 
-WebSocket server with SQLite-backed event persistence, multi-channel messaging, DMs, voice, file transfers, reactions, history replay, and time-window search. Optional Discord bridge behind a Cargo feature flag. Ships as cross-platform binaries with automated Windows release packaging and SHA256 checksums via GitHub Actions CI.
+WebSocket server with SQLite-backed event persistence, multi-channel messaging, DMs, voice, file transfers, reactions, and time-window history search. Optional Discord bridge behind a Cargo feature flag. Ships as cross-platform binaries with automated Windows release packaging and SHA256 checksums via GitHub Actions CI.
 
-**What this proves:** Systems thinking applied to networked, concurrent, production-ready software.
+`→` Systems thinking applied to networked, concurrent, production-ready software.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -86,12 +86,12 @@ WebSocket server with SQLite-backed event persistence, multi-channel messaging, 
 <tr>
 <td width="50%" valign="top">
 
-### [PulseData](https://github.com/kill74/PulseData)
+### 📊 [PulseData](https://github.com/kill74/PulseData)
 **Full-stack data engineering platform — from raw events to business insight.**
 
 Built on **.NET 8 + PostgreSQL** with a clean ETL pipeline modelling real-world e-commerce analytics. Handles ingestion, transformation, and BI-ready output. Designed around the principle that bad data architecture costs more than bad code.
 
-**What this proves:** I design systems end-to-end, not just endpoints.
+`→` End-to-end system design — not just endpoints.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -100,12 +100,12 @@ Built on **.NET 8 + PostgreSQL** with a clean ETL pipeline modelling real-world 
 </td>
 <td width="50%" valign="top">
 
-### [SPO2SQL](https://github.com/kill74/SPO2SQL)
+### 🔌 [SPO2SQL](https://github.com/kill74/SPO2SQL)
 **Enterprise integration bridge — SharePoint Online → SQL Server.**
 
 Console tool that syncs SharePoint lists to SQL Server via CSOM, applying data quality routines to catch structural inconsistencies before they corrupt downstream reports. The kind of unglamorous, critical infrastructure that keeps businesses running.
 
-**What this proves:** I build tools that survive contact with production.
+`→` Tools that survive contact with production.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
@@ -132,16 +132,24 @@ Console tool that syncs SharePoint lists to SQL Server via CSOM, applying data q
     "data": ["ETL pipelines", "PostgreSQL", "MySQL", "Oracle", "SQL Server"]
   },
   "systems_knowledge": [
-    "x86 protected mode", "memory management",
-    "CPU protection rings", "async runtimes",
-    "network protocols", "CSOM / SharePoint APIs"
+    "x86 protected mode",
+    "memory management & allocators",
+    "CPU protection rings",
+    "async runtimes",
+    "network protocols (TCP/IP, WebSocket, HTTP/2)",
+    "CSOM / SharePoint APIs"
   ],
-  "toolchain": ["Linux", "Git", "Vim", "GDB", "Bash", "Docker", "Terraform", "npm", "OpenCV"],
-  "currently_exploring": ["eBPF", "WASM runtimes", "distributed consensus", "GitOps (ArgoCD / Flux)"]
+  "toolchain": [
+    "Linux", "Git", "Vim", "GDB", "Bash",
+    "Docker", "Terraform", "OpenCV", "npm"
+  ],
+  "currently_exploring": [
+    "eBPF", "WASM runtimes",
+    "distributed consensus (Raft/Paxos)",
+    "GitOps (ArgoCD / Flux)"
+  ]
 }
 ```
-
-<br/>
 
 ---
 
@@ -153,6 +161,10 @@ Console tool that syncs SharePoint lists to SQL Server via CSOM, applying data q
 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=kill74&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=F7CF6E&icon_color=F7CF6E&title_color=F7CF6E&text_color=c9d1d9&hide_border=false&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kill74&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=F7CF6E&title_color=F7CF6E&text_color=c9d1d9&hide_border=false" height="165"/>
+
 </div>
 
 ---
@@ -160,11 +172,11 @@ Console tool that syncs SharePoint lists to SQL Server via CSOM, applying data q
 ## `> cat /proc/currently_running`
 
 ```
-[ ACTIVE ]  Studying distributed systems & consensus algorithms
-[ ACTIVE ]  Deepening OS internals — scheduler design, memory models
-[ QUEUED ]  eBPF-based observability tooling (Rust)
+[ ACTIVE ]  Studying distributed systems & consensus algorithms (Raft, Paxos)
+[ ACTIVE ]  OS internals — scheduler design, memory models, lock-free structures
+[ QUEUED ]  eBPF-based observability tooling in Rust
 [ QUEUED ]  Contributing to open-source systems projects
-[ ALWAYS ]  Reading. Building. Iterating.
+[ ALWAYS ]  Reading. Building. Shipping. Iterating.
 ```
 
 ---
@@ -184,7 +196,7 @@ Console tool that syncs SharePoint lists to SQL Server via CSOM, applying data q
 <br/>
 
 > Open to **internships**, **collaborative projects**, and **interesting problems.**
-> If you're building something that requires understanding the full stack — let's talk.
+> If you're building something that demands understanding the full stack — let's talk.
 
 </div>
 
