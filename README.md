@@ -194,10 +194,6 @@ Syncs SharePoint lists to SQL Server via CSOM, applying data quality routines to
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kill74&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=F7CF6E&icon_color=F7CF6E&title_color=F7CF6E&text_color=c9d1d9&hide_border=false&rank_icon=github" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kill74&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=F7CF6E&title_color=F7CF6E&text_color=c9d1d9&hide_border=false&langs_count=8" height="160"/>
-
 <br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kill74&theme=tokyo-night&bg_color=0d1117&color=F7CF6E&line=F7CF6E&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
