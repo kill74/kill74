@@ -161,10 +161,6 @@ Console tool that syncs SharePoint lists to SQL Server via CSOM, applying data q
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kill74&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=F7CF6E&icon_color=F7CF6E&title_color=F7CF6E&text_color=c9d1d9&hide_border=false&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kill74&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=F7CF6E&title_color=F7CF6E&text_color=c9d1d9&hide_border=false" height="165"/>
-
 </div>
 
 ---
