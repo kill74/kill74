@@ -15,6 +15,9 @@
 
 <br/>
 
+**Rust backend/systems developer open to contract work.**
+Async Rust, WebSocket systems, SQLite persistence, CI/release automation, and security-minded protocol work.
+
 [![Portfolio](https://img.shields.io/badge/↗_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=F7CF6E)](https://guilhermewebsitee.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kill74)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sales-35a580299)
@@ -218,8 +221,8 @@ Syncs SharePoint lists to SQL Server via CSOM, applying data quality routines to
 
 <div align="center">
 
-> Open to **internships**, **collaborative projects**, and **interesting problems.**
-> If you're building something that demands understanding the full stack — *let's talk.*
+> Available for **Rust backend/systems contract work**.
+> See [Chatify](https://github.com/kill74/Chatify) for shipped proof: async WebSockets, SQLite persistence, protocol contracts, CI, releases, and security notes.
 
 <br/>
 
