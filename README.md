@@ -59,41 +59,19 @@ Async Rust, WebSocket systems, SQLite persistence, CI/release automation, and se
 
 ---
 
-## `> cat skills.json | jq`
+## `> cat principles.txt`
 
-<div align="center">
+```sh
+┌─[guilherme@kill74]─[~]
+└──╼ $ cat ~/principles.txt
 
-### ⚙️ Systems & Low-Level
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly_x86-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### 🖥️ Backend & Scripting
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-### 🌐 Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### 🗄️ Data & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+  → Understand the layer below the one you're working in
+  → If you can't explain the failure mode, you don't own the code
+  → Observability is not optional in production
+  → Bad data models outlive bad code by years
+  → A system that can't be debugged can't be trusted
+  → Ship it. Then make it right. Then make it fast.
+```
 
 <br/>
 
@@ -189,6 +167,108 @@ Syncs SharePoint lists to SQL Server via CSOM, applying data quality routines to
 
 ---
 
+## `> cat war_stories.log`
+
+> Real problems, real fixes. The bugs that taught me the most.
+
+<br/>
+
+```sh
+┌─[guilherme@kill74]─[~]
+└──╼ $ tail -n 50 ~/war_stories.log
+```
+
+**[Chatify] — Race condition at scale**
+```
+Under 200+ concurrent WebSocket connections, Chatify started dropping messages
+silently. No panic, no error — just ghost broadcasts.
+
+Traced it to a lock ordering inconsistency in the channel broadcast logic:
+two async tasks acquiring per-channel and global state locks in opposite order,
+creating a classic deadlock window under load.
+
+Fix: enforced a strict RwLock acquisition hierarchy — global state always before
+channel state, never the inverse. Added a stress-test harness that spawns 500
+concurrent clients and asserts zero dropped messages. That test now lives in CI
+and blocks every merge.
+
+Lesson: async Rust prevents data races. It doesn't prevent logical races.
+You still have to think.
+```
+
+**[TeamPulseBridge] — Webhook replay attacks**
+```
+During a security review I noticed the HMAC verification was correct, but there
+was no timestamp validation on incoming webhook payloads. A captured request
+could be replayed indefinitely and pass signature checks.
+
+Fix: added a 5-minute receive window check against the provider timestamp header.
+Requests outside the window are rejected with 401 before they touch any handler.
+Added to the threat model doc and integration test suite.
+
+Lesson: cryptographic correctness ≠ protocol security. Model the attacker, not
+just the algorithm.
+```
+
+<br/>
+
+---
+
+## `> htop --mode=languages`
+
+<div align="center">
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kill74&theme=tokyonight&bg_color=0d1117&title_color=F7CF6E&text_color=ffffff&icon_color=F7CF6E&border_color=F7CF6E&layout=compact&langs_count=8)](https://wakatime.com/@kill74)
+
+> ⚠️ To activate live WakaTime stats: create a free account at [wakatime.com](https://wakatime.com), install the IDE plugin, and update `?username=kill74` above with your WakaTime username.
+
+</div>
+
+<br/>
+
+---
+
+## `> dig chatify.arch +short`
+
+```
+                        ┌─────────────────────────────────┐
+                        │         Chatify Architecture     │
+                        └─────────────────────────────────┘
+
+  Clients (WS)                   Server Core                  Persistence
+  ┌──────────┐                 ┌────────────────┐            ┌──────────────┐
+  │ Client A │──────────────▶  │  WS Listener   │            │              │
+  └──────────┘    upgrade      │  (tokio-tungstenite)        │   SQLite DB  │
+                               └───────┬────────┘            │              │
+  ┌──────────┐                         │                     │  ┌─────────┐ │
+  │ Client B │──────────────▶          ▼                     │  │ messages│ │
+  └──────────┘              ┌──────────────────┐    write    │  │ channels│ │
+                            │  Session Manager  │ ─────────▶ │  │ users   │ │
+  ┌──────────┐              │  (Arc<RwLock<T>>) │            │  │ files   │ │
+  │ Client C │──────────────▶          │        │            └──────────────┘
+  └──────────┘              └──────────┬───────┘
+                                       │
+                         ┌─────────────┴──────────────┐
+                         │                            │
+                  ┌──────▼──────┐            ┌────────▼──────┐
+                  │  Channel    │            │  DM / Voice   │
+                  │  Broadcast  │            │  Handler      │
+                  └──────┬──────┘            └───────────────┘
+                         │
+              ┌──────────▼──────────┐
+              │  Discord Bridge     │  ← optional (Cargo feature flag)
+              │  (feature = bridge) │
+              └─────────────────────┘
+
+  Lock hierarchy enforced:  GlobalState → ChannelState  (never reversed)
+  Message delivery:         broadcast fan-out per channel subscriber list
+  Persistence:              every event written to SQLite before ACK
+```
+
+<br/>
+
+---
+
 ## `> git log --oneline --all --graph`
 
 <div align="center">
@@ -197,11 +277,37 @@ Syncs SharePoint lists to SQL Server via CSOM, applying data quality routines to
 
 <br/><br/>
 
-<br/><br/>
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kill74&theme=tokyo-night&bg_color=0d1117&color=F7CF6E&line=F7CF6E&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
+
+<!-- Contribution Snake — set up the GitHub Action below to activate -->
+<!-- ACTION SETUP: Create .github/workflows/snake.yml in your profile repo:
+
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: kill74
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+Then uncomment the img tag below: -->
+
+<!-- <img src="https://raw.githubusercontent.com/kill74/kill74/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" /> -->
 
 </div>
 
