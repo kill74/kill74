@@ -1,40 +1,52 @@
-# Guilherme — kill74
+&lt;div align="center"&gt;
 
-Systems programmer and full-stack engineer based in Castelo Branco, Portugal.
+# Guilherme Sales
+**Systems & Backend Engineer** — Castelo Branco, Portugal 🇵🇹
 
-I work across the full stack — from bare-metal kernels and systems daemons up to REST APIs and production UIs. My focus is on writing software that is correct, observable, and built to survive contact with production.
+[Portfolio](https://guilhermewebsitee.vercel.app) · [LinkedIn](https://www.linkedin.com/in/guilherme-sales-35a580299) · [Email](mailto:guilhermesales4563@gmail.com)
 
-Currently open to **Rust backend and systems contract work**.
+&lt;/div&gt;
 
 ---
 
-### Work
+### About
+
+Full-stack engineer with a systems programming focus. I work across the entire stack — from bare-metal kernels in C/ASM to production backends in Rust and Go. Currently building distributed systems and exploring consensus algorithms (Raft, Paxos).
+
+Open to **Rust backend / systems contract work**.
+
+---
+
+### Tech Stack
+
+**Systems & Low-Level:** Rust · Go · C · x86 Assembly  
+**Backend:** C# · Python · Node.js · PHP · Bash  
+**Frontend:** TypeScript · React · Next.js  
+**Data & Infra:** PostgreSQL · SQLite · MongoDB · SQL Server · Docker · Terraform · Linux
+
+---
+
+### Selected Work
 
 | Project | Description | Stack |
-|---|---|---|
-| [TeamPulseBridge](https://github.com/kill74/TeamPulseBridge) | Event ingestion bridge — Slack, Teams, GitHub, GitLab into one hardened pipeline. HMAC/token auth, OpenTelemetry, Prometheus, full Terraform IaC on GCP. | Go · Terraform · GCP |
-| [Chatify](https://github.com/kill74/Chatify) | Self-hosted concurrent chat server. WebSocket, SQLite persistence, multi-channel, DMs, file transfers, optional Discord bridge. Cross-platform CI releases. | Rust · SQLite · WebSocket |
-| [PulseData](https://github.com/kill74/PulseData) | Full-stack ETL platform modelling e-commerce analytics — ingestion, transformation, BI-ready output. | C# · .NET 8 · PostgreSQL |
-| [SPO2SQL](https://github.com/kill74/SPO2SQL) | SharePoint Online → SQL Server sync via CSOM with data quality routines before downstream reporting. | C# · SharePoint · SQL Server |
-
----
-
-### Stack
-
-**Systems** — Rust · Go · C · x86 Assembly  
-**Backend** — C# · Python · Node.js · PHP · Bash · Lua  
-**Frontend** — TypeScript · React · Next.js  
-**Data** — PostgreSQL · SQLite · MongoDB · SQL Server · Oracle  
-**Infrastructure** — Docker · Terraform · Linux · GCP
+|---------|-------------|-------|
+| [**TeamPulseBridge**](https://github.com/kill74/TeamPulseBridge) | Production event ingestion bridge with HMAC verification, OpenTelemetry, and Terraform IaC on GCP | Go, Terraform, OpenTelemetry |
+| [**Chatify**](https://github.com/kill74/Chatify) | Self-hosted WebSocket chat server with SQLite persistence, multi-channel messaging, and automated releases | Rust, SQLite, WebSocket |
+| [**PulseData**](https://github.com/kill74/PulseData) | Full-stack ETL pipeline and BI-ready data engineering platform | .NET 8, PostgreSQL |
+| [**SPO2SQL**](https://github.com/kill74/SPO2SQL) | Enterprise SharePoint Online → SQL Server integration bridge with data quality routines | C#, SharePoint, SQL Server |
 
 ---
 
 ### Currently
 
-- Distributed systems and consensus algorithms (Raft, Paxos)
-- OS internals — scheduler design, memory models, lock-free structures
-- eBPF-based observability tooling in Rust
+- Distributed systems & consensus algorithms
+- OS internals — schedulers, memory models, lock-free structures
+- eBPF observability tooling in Rust *(queued)*
 
 ---
 
-[Portfolio](https://guilhermewebsitee.vercel.app) · [LinkedIn](https://www.linkedin.com/in/guilherme-sales-35a580299) · [guilhermesales4563@gmail.com](mailto:guilhermesales4563@gmail.com)
+&lt;div align="center"&gt;
+
+*The present is connected to the past and future. — Lain*
+
+&lt;/div&gt;
