@@ -4,7 +4,7 @@ Systems programmer and full-stack engineer based in Castelo Branco, Portugal.
 
 I work across the full stack — from bare-metal kernels and systems daemons up to REST APIs and production UIs. My focus is on writing software that is correct, observable, and built to survive contact with production.
 
-Currently open to **Rust backend and systems contract work**.
+I love OpenSource (●'◡'●)
 
 ---
 
