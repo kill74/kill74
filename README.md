@@ -31,9 +31,8 @@ I love OpenSource (●'◡'●)
 
 ### Currently
 
-- Distributed systems and consensus algorithms (Raft, Paxos)
-- OS internals — scheduler design, memory models, lock-free structures
-- eBPF-based observability tooling in Rust
+- Only focused on Open Source Projects
+- Not building anything 
 
 ---
 
