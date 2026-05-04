@@ -25,7 +25,7 @@ I love OpenSource (●'◡'●)
 **Backend** — C# · Python · Node.js · PHP · Bash · Lua  
 **Frontend** — TypeScript · React · Next.js  
 **Data** — PostgreSQL · SQLite · MongoDB · SQL Server · Oracle  
-**Infrastructure** — Docker · Terraform · Linux · GCP
+**Infrastructure** — Docker · Terraform · Linux 
 
 ---
 
