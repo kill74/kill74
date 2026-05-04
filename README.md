@@ -1,4 +1,4 @@
-# Guilherme — kill74
+# kill74
 
 Systems programmer and full-stack engineer based in Castelo Branco, Portugal.
 
