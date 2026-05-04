@@ -32,7 +32,7 @@ I love OpenSource (●'◡'●)
 ### Currently
 
 - Only focused on Open Source Projects
-- Not building anything 
+- Not building anything (for now)
 
 ---
 
