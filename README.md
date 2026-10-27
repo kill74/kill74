@@ -24,6 +24,7 @@ I love OpenSource (●'◡'●)
 
 - [archinstall](https://github.com/archlinux/archinstall) — Arch Linux's guided installer
 - [OpenCode](https://github.com/anomalyco/opencode) — open-source AI coding agent
+- [Omarchy](https://github.com/kill74/omarchy) — Omarchy is a beautiful, fun & agentic Linux distribution by DHH.
 
 * * *
 
