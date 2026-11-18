@@ -143,7 +143,7 @@ def build_header():
     b.append(f'<line x1="{gx}.5" y1="35" x2="{gx}.5" y2="{H}" stroke="{BORDER}"/>')
     b.append(f'<line x1="{gx + cw}.5" y1="35" x2="{gx + cw}.5" y2="{H}" stroke="{BORDER}"/>')
     b.append(f'<line x1="{gx}" y1="{gy + ch}" x2="{W}" y2="{gy + ch}" stroke="{BORDER}"/>')
-    cells = [("base", "Castelo Branco"), ("status", "active"), ("focus", "systems + web"), ("stack", "Rust · Go · C#")]
+    cells = [("base", "Portugal"), ("status", "active"), ("focus", "systems + web"), ("stack", "Rust · Go · C#")]
     for i, (k, v) in enumerate(cells):
         cx, cy = gx + (i % 2) * cw + 16, gy + (i // 2) * ch
         b.append(t(cx, cy + 32, k, 11, MUTED))
