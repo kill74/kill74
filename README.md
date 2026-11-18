@@ -15,7 +15,7 @@ I love open source (●'◡'●)
 <a href="https://github.com/kill74/CinderOS"><img src="assets/card-cinderos.svg" alt="CinderOS" width="49%"></a>
 <a href="https://github.com/kill74/PulseData"><img src="assets/card-pulsedata.svg" alt="PulseData" width="49%"></a>
 <a href="https://github.com/kill74/SPO2SQL"><img src="assets/card-spo2sql.svg" alt="SPO2SQL" width="49%"></a>
-<a href="https://github.com/archlinux/archinstall"><img src="assets/card-open-source.svg" alt="Open source" width="49%"></a>
+<a><img src="assets/card-open-source.svg" alt="Open source" width="49%"></a>
 </p>
 
 ### Stack
