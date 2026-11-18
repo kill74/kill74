@@ -42,7 +42,7 @@ PROJECTS = [
     dict(slug="spo2sql", repo="SPO2SQL", lang="C#",
          desc="SharePoint Online to SQL Server sync via CSOM, with data quality routines before reporting."),
 ]
-OSS = dict(slug="open-source", name="open-source", url="https://github.com/archlinux/archinstall",
+OSS = dict(slug="open-source", name="open-source", url="",
            desc="Contributing to Arch Linux's archinstall and the OpenCode AI coding agent. Fan of Omarchy.",
            cols=[("focus", "installers"), ("projects", "3"), ("status", "active")], right="contributor")
 
@@ -219,9 +219,13 @@ def build_stack():
 
 
 # ---------- README ----------
+def anchor_open(url):
+    return f'<a href="{url}">' if url else '<a>'
+
+
 def build_readme(cards):
     grid = "\n".join(
-        f'<a href="{u}"><img src="assets/card-{s}.svg" alt="{a}" width="49%"></a>' for u, s, a in cards)
+        f'{anchor_open(u)}<img src="assets/card-{s}.svg" alt="{a}" width="49%"></a>' for u, s, a in cards)
     md = f"""<img src="assets/banner.png" alt="" width="100%">
 <img src="assets/header.svg" alt="kill74 - systems programmer and full-stack engineer" width="100%">
 
