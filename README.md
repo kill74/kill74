@@ -1,7 +1,7 @@
 <img src="assets/banner.png" alt="" width="100%">
 <img src="assets/header.svg" alt="kill74 - systems programmer and full-stack engineer" width="100%">
 
-Systems programmer and full-stack engineer based in Castelo Branco, Portugal. Computer engineering student at [IPCB](https://www.ipcb.pt).
+Systems programmer and full-stack engineer based in Portugal. Computer engineering student at [IPCB](https://www.ipcb.pt).
 
 I work across the full stack, from bare-metal kernels and systems daemons up to REST APIs and production UIs. I care about software that is correct, observable and built to survive contact with production.
 
