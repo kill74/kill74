@@ -24,4 +24,4 @@ I love open source (●'◡'●)
 
 ### Say hi
 
-[Portfolio]([https://guilhermewebsitee.vercel.app](https://tanstack-start-app.guilhermeportfolio.workers.dev)) · [LinkedIn](https://www.linkedin.com/in/guilherme-sales-35a580299) · guilhermesales4563@gmail.com
+[Portfolio](https://tanstack-start-app.guilhermeportfolio.workers.dev) · [LinkedIn](https://www.linkedin.com/in/guilherme-sales-35a580299) · guilhermesales4563@gmail.com
